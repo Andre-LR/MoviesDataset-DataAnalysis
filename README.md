@@ -1,5 +1,5 @@
 # Movie Data Analysis
-[![GitHub license](https://img.shields.io/github/license/Andre-LR/Web-Service-Spring-Boot)](https://github.com/Andre-LR/MoviesDataset-DataAnalysis/blob/master/LICENSE')
+[![GitHub license](https://img.shields.io/github/license/Andre-LR/Web-Service-Spring-Boot)](https://github.com/Andre-LR/MoviesDataset-DataAnalysis/blob/master/LICENSE)
 
 ## Introduction
 
